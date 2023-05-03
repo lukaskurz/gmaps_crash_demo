@@ -1,3 +1,5 @@
 # This is a generated file; do not edit or check into version control.
-flutter_plugin_android_lifecycle=/home/lukaskurz/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/
-google_maps_flutter=/home/lukaskurz/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.1.8/
+flutter_plugin_android_lifecycle=/home/lkurz/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+google_maps_flutter=/home/lkurz/Coding/flutter/plugins/packages/google_maps_flutter/google_maps_flutter/
+google_maps_flutter_android=/home/lkurz/Coding/flutter/plugins/packages/google_maps_flutter/google_maps_flutter_android/
+google_maps_flutter_ios=/home/lkurz/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter_ios-2.1.11/
